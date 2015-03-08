@@ -5,6 +5,8 @@ http://www.Earthdollar.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2014-2015 EarthDollar Developers
+
 
 What is EarthDollar?
 ----------------
